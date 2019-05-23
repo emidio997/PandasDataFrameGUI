@@ -634,3 +634,4 @@ def show(df):
     frame = MainFrame(df)
     frame.Show()
     app.MainLoop()
+    return None
